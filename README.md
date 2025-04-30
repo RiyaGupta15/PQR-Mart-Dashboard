@@ -18,6 +18,3 @@ Moreover, key performance indicators like total sales, profit, quantity sold, an
 
  ![Image](https://github.com/user-attachments/assets/68fbf892-74ed-4327-872d-c1195b050890)
 
- 
-![Image](https://github.com/user-attachments/assets/68fbf892-74ed-4327-872d-c1195b050890)
-
