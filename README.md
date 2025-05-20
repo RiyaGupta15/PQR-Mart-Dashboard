@@ -2,7 +2,7 @@
 # PQR Mart Customer Data 
 
 
-# Mart Dashboard
+# Retail Sales Dashboard
 
 ## Problem Statement
 
